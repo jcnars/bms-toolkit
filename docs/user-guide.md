@@ -2341,7 +2341,7 @@ PLAY [all] *********************************************************************
 ... output truncated for brevity
 ```
 
-##Appendix
+## Appendix
 Here is an end-to-end example of how to install Oracle on BMS using cloud volumes:
 https://medium.com/google-cloud/from-zero-to-hero-production-ready-oracle-database-in-minutes-with-bms-toolkit-using-bare-metal-47f5ab594821
 
