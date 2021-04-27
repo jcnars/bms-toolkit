@@ -51,7 +51,7 @@ published: True
   - [Patching](#patching)
   - [Patching RAC databases](#patching-rac-databases)
   - [Destructive Cleanup](#destructive-cleanup)
-
+- [Appendix](#appendix)
 ## Command quick reference for single instance deployments
 
 Sample commands for a simple quick-start and basic toolkit usage for an Oracle
@@ -2340,3 +2340,10 @@ Running Ansible playbook: /usr/bin/ansible-playbook -i ./inventory_files/invento
 PLAY [all] ************************************************************************************
 ... output truncated for brevity
 ```
+
+##Appendix
+Here is an end-to-end example of how to install Oracle on BMS using cloud volumes:
+https://medium.com/google-cloud/from-zero-to-hero-production-ready-oracle-database-in-minutes-with-bms-toolkit-using-bare-metal-47f5ab594821
+
+Above is an example of an user's experience leveraging the bms-toolkit for a customer specific environment.
+
